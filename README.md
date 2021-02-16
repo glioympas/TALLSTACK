@@ -7,4 +7,4 @@ This STACK seems very powerfull to me & can save ton of development time.
 
 ## I'm shocked! That was great & as a backend developer I loved that.
 
-I really loved that web stack because me, as not huge fan of JavaScript it really made things much easier. This can save ton of time! Wow..
+I really loved that web stack because me, as many others I believe as not huge fans of JavaScript this really makes things much more enjoyable and easier. This can save ton of time! Wow..
